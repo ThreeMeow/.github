@@ -10,3 +10,7 @@ https://www.oracle.com/cloud/free/
 
 # rakutenadvertising
 https://rakutenadvertising.com
+
+# Smart Home
+https://github.com/home-assistant
+[ARS Home Demo](https://demo.home-assistant.io/#/lovelace/0)
